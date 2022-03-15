@@ -1,2 +1,2 @@
-# simple-dart-calculator_cti3i3
-Calculator using function in .dart language 🔢
+# mobile_flutter_cti3i3
+All project in class cti3i3 flutter for mobile development 📱
