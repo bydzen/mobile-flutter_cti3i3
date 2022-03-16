@@ -58,28 +58,42 @@ class _MyHomePageState extends State<MyHomePage> {
           Container(
             color: Colors.blue,
             child: const Text(
-              "Item 1",
+              "Item 2",
               style: TextStyle(color: Colors.white),
             ),
           ),
           Container(
             color: Colors.green,
             child: const Text(
-              "Item 1",
+              "Item 3",
               style: TextStyle(color: Colors.white),
             ),
           ),
           Container(
             color: Colors.yellow[700],
             child: const Text(
-              "Item 1",
+              "Item 4",
               style: TextStyle(color: Colors.white),
             ),
           ),
           Container(
             color: Colors.red,
             child: const Text(
-              "Item 1",
+              "Item 5",
+              style: TextStyle(color: Colors.white),
+            ),
+          ),
+          Container(
+            color: Colors.purple,
+            child: const Text(
+              "Item 6",
+              style: TextStyle(color: Colors.white),
+            ),
+          ),
+          Container(
+            color: Colors.teal,
+            child: const Text(
+              "Item 7",
               style: TextStyle(color: Colors.white),
             ),
           ),
